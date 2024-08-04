@@ -2,6 +2,7 @@
 ## MADE IN RUST ... SO IGNORE ANY DUMB CODE PLEJJ
 ### FEATURES AVAILABLE
 LS - LIST DIRECTORIES(cargo run ls destination(optional))
+
 FIND - FIND ANY DIRECTORY OR FILE IN A FOLDER(cargo run find destination)
 ECHO - JUST REPEATS THE INPUT (yea..ik very basic)(cargo run echo input)
 
