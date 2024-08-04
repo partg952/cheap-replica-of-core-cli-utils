@@ -4,4 +4,5 @@
 LS - LIST DIRECTORIES(cargo run ls destination(optional))
 FIND - FIND ANY DIRECTORY OR FILE IN A FOLDER(cargo run find destination)
 ECHO - JUST REPEATS THE INPUT (yea..ik very basic)(cargo run echo input)
+
 CAT - CONCATANATES TWO FILES OR PRINT THE CONTENTS OF ONE(cargo run cat file1 file2(optional))
